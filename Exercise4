@@ -1,0 +1,8 @@
+<script type="text/javasctipt">
+function getAllItems(){
+var MyArray = ["1","2","3","4","5"];
+alert(MyArray[0]);
+
+}
+
+</script
